@@ -1,0 +1,14 @@
+package-lock.json
+
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# IDE
+.idea
+.vscode
+*.iml
+
+index.min.js
+index.min.js.map
